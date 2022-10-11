@@ -1,2 +1,2 @@
-# Content-Management-System-in-PHP
+# Content Management System in PHP
 CMS in PHP
